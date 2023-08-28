@@ -1,2 +1,2 @@
-# Argent-Resources
+# Argent Resources
 Argent Resources and Assets.
